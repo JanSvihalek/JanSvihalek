@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jan Švihálek
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me jan.svihalek00@gmail.com
 
 <!---
