@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan Švihálek
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Dart and Flutter
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me jan.svihalek00@gmail.com
 
 <!---
